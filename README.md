@@ -1,3 +1,22 @@
 # loan-prediction-111
 
-the loan prediction data analys difrent classifcations and best accuracy find out 
+The loan prediction data analyes diffrent classifications  
+###Data features
+Variable : Description
+Loan_ID :  Unique Loan ID
+Gender:   Male/ Female
+Married : Applicant married (Y/N)
+Dependents"  Number of dependents
+Education:  Applicant Education (Graduate/ Under Graduate)
+Self_Employed:  Self employed (Y/N)
+ApplicantIncome : Applicant income
+CoapplicantIncome : Coapplicant income
+loanAmount : Loan amount in thousands
+Loan_Amount_Term : Term of loan in months
+Credit_History : credit history meets guidelines
+Property_Area : Urban/ Semi Urban/ Rural
+Loan_Status : Loan approved (Y/N)Data
+
+
+###Envieroment and tools
+   numpy,pandas,sk leran,matplotlib,correlations marix, boxplot, classifires
